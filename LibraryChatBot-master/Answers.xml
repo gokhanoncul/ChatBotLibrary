@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<terms>
+    <regex>
+       <kitapYazar name="Suc ve Ceza">
+           <answer>Suc ve Ceza kitabinin yazari Fyodor Dostoyevsky'dir.</answer>
+       </kitapYazar>
+        <kitapYazar name="Buyuk Sorulara Kisa Yanitlar">
+            <answer>Buyuk Sorulara Kisa Yanitlar kitabinin yazari Stephan Hawking'tir.</answer>
+        </kitapYazar>
+        <kitapYazar name="Insan Neyle Yasar">
+            <answer>Insan Neyle Yasar kitabinin yazari L.N. Tolstoy'dur.</answer>
+        </kitapYazar>
+        <kitapYazar name="Leyla ile Mecnun">
+            <answer>Leyla ile Mecun kitabinin yazari Burak Aksak'tir.</answer>
+        </kitapYazar>
+        <kitapYazar name="Dirilis">
+            <answer>Dirilis kitabinin yazari L.N. Tolstoy'dur.</answer>
+        </kitapYazar>
+        <kitapYazar name="Silahlara Veda">
+            <answer>Silahlara Veda kitabinin yazari Ernest Hemingway'dir.</answer>
+        </kitapYazar>
+        <kitapYazar name="Yuzuklerin Efendisi">
+            <answer>Yuzuklerin Efendisi serisi yazari J.R.R. Tolkien'dir.</answer>
+        </kitapYazar>
+        <kitapYazar name="Su Cilgin Turkler">
+            <answer>Su Cilgin Turkler kitabinin yazari Turgut Ozakman'dir.</answer>
+        </kitapYazar>
+        <kitapYazar name="Mustafa Kemal">
+            <answer>Mustafa Kemal kitabi, Yilmaz Ozdil tarafindan yazilmistr.</answer>
+        </kitapYazar>
+        <kitapYazar name="Sefiller">
+            <answer>Sefiller kitabi, Victor Huga tarafindan yazilmistir.</answer>
+        </kitapYazar>
+    </regex>
+
+    <regex>
+        <kitapTarih name="Yuzuklerin Efendisi">
+            <answer>Yuzuklerin Efendisi serisinin ilk kitabi olan Yuzuk Kardesligi 29 Temmuz 1954 tarihinde cikmistir.</answer>
+        </kitapTarih>
+        <kitapTarih name="Suc ve Ceza">
+            <answer>Suc ve Ceza kitabinin ilk basimi 1846 yilinda cikmistir.</answer>
+        </kitapTarih>
+        <kitapTarih name="Dirilis">
+            <answer>Dirilis kitabinin ilk basimi 1899 yilinda cikmistir.</answer>
+        </kitapTarih>
+        <kitapTarih name="Buyuk Sorulara Kisa Yanitlar">
+            <answer>Buyuk Sorulara Kisa Yanitlar kitabini ilk basimi 2018 yilinda cikmistir.</answer>
+        </kitapTarih>
+        <kitapTarih name="Insan Neyle Yasar">
+            <answer>Insan Neyle Yasar kitabinin ilk basimi 1885 yilinda cikmistir.</answer>
+        </kitapTarih>
+        <kitapTarih name="Silahlara Veda">
+            <answer>Silahlara Veda kitabinin ilk basim yili 1929 yilinda cikmistir.</answer>
+        </kitapTarih>
+        <kitapTarih name="Leyla ile Mecnun">
+            <answer>Leyla ile Mecnun kitabinin ilk basimi 2018 yilinda cikmistir.</answer>
+        </kitapTarih>
+        <kitapTarih name="Su Cilgin Turkler">
+            <answer>Su Cilgin Turkler kitabinin ilk basimi 2005 yilinda cikmistir.</answer>
+        </kitapTarih>
+        <kitapTarih name="Mustafa Kemal">
+            <answer>Mustafa Kemal kitabinin ilk basimi 2018 yilinda cikmstir.</answer>
+        </kitapTarih>
+        <kitapTarih name="Sefiller">
+            <answer>Sefiller kitabinin ilk basimi 1862 yilinda yayinlanmistir.</answer>
+        </kitapTarih>
+    </regex>
+
+    <regex>
+        <kitapSayfa name="Mustafa Kemal">
+            <answer>Yilmaz Ozdil'in yazdigi Mustafa Kemal kitabi 520 sayfadir.</answer>
+        </kitapSayfa>
+        <kitapSayfa name="Sefiller">
+            <answer>Sefiller serisi farkli yayin evleri tarafindan basilmis ve farkli sayilarda ciltlenmis olup, orjinali 1981 sayfadir.</answer>
+        </kitapSayfa>
+        <kitapSayfa name="Yuzuklerin Efendisi">
+            <answer>Yuzuklerin Efendisi serisi toplamda 1320 sayfadan olusmaktadir.</answer>
+        </kitapSayfa>
+        <kitapSayfa name="Suc ve Ceza">
+            <answer>Suc ve Ceza kitabi 704 sayfadan olusmaktadir.</answer>
+        </kitapSayfa>
+        <kitapSayfa name="Dirilis">
+            <answer>Dirilis kitabi 483 sayfadir.</answer>
+        </kitapSayfa>
+        <kitapSayfa name="Buyuk Sorulara Kisa Yanitlar">
+            <answer>Buyuk Sorulara Kisa Yanitlar Kitabi 199 sayfadir.</answer>
+        </kitapSayfa>
+        <kitapSayfa name="Insan Neyle Yasar">
+            <answer>Insan Neyle Yasar kitabi 95 sayfadan olusmaktadir.</answer>
+        </kitapSayfa>
+        <kitapSayfa name="Silahlara Veda">
+            <answer>Silahlara Veda kitabi 296 sayfadan olusmaktadir.</answer>
+        </kitapSayfa>
+        <kitapSayfa name="Leyla ile Mecnun">
+            <answer>Leyla ile Mecnun kitabi 272 sayfadir.</answer>
+        </kitapSayfa>
+        <kitapSayfa name="Su Cilgin Turkler">
+            <answer>Su Cilgin Turkler 500 sayfadir.</answer>
+        </kitapSayfa>
+    </regex>
+
+    <regex>
+        <kitapFiyat name="Suc ve Ceza">
+            <answer>Suc ve Ceza kitabinin anlik ucreti 49 TL dir.</answer>
+        </kitapFiyat>
+        <kitapFiyat name="Buyuk Sorulara Kisa Yanitlar">
+            <answer>Buyuk Sorulara Kisa Yanitlar kitabinin anlik ucreti 15 TL dir.</answer>
+        </kitapFiyat>
+        <kitapFiyat name="Insan Neyle Yasar">
+            <answer>Insan Neyle Yasar kitabinin anlik ucreti 12 TL dir.</answer>
+        </kitapFiyat>
+        <kitapFiyat name="Leyla ile Mecnun">
+            <answer>Leyla ile Mecun kitabinin anlik ucreti 39 TL dir.</answer>
+        </kitapFiyat>
+        <kitapFiyat name="Dirilis">
+            <answer>Dirilis kitabinin anlik ucreti 49 TL dir.</answer>
+        </kitapFiyat>
+        <kitapFiyat name="Silahlara Veda">
+            <answer>Silahlara Veda anlik ucreti 35 TL dir.</answer>
+        </kitapFiyat>
+        <kitapFiyat name="Yuzuklerin Efendisi">
+            <answer>Yuzuklerin Efendisi seris ianlik ucreti 122 TL dir.</answer>
+        </kitapFiyat>
+        <kitapFiyat name="Su Cilgin Turkler">
+            <answer>Su Cilgin Turkler kitabinin anlik ucreti 39 TL dir.</answer>
+        </kitapFiyat>
+        <kitapFiyat name="Mustafa Kemal">
+            <answer>Mustafa Kemal kitabinin normal kapakli ucreti 35 TL olup, cilt kapakli hali 45 TL dir.</answer>
+        </kitapFiyat>
+        <kitapFiyat name="Sefiller">
+            <answer>Sefiller kitabinin anlik ucreti 59 TL dir.</answer>
+        </kitapFiyat>
+    </regex>
+
+    <regex>
+        <kitapInfo name="Suc ve Ceza">
+            <answer>Suc ve Ceza kitabinin yazari Fyodor Dostoyevsky'dir. Kitap 1846 yilinda yazilmis olup 704 sayfadan olusmaktadir.</answer>
+        </kitapInfo>
+        <kitapInfo name="Mustafa Kemal">
+            <answer>Mustafa Kemal kitabi Yilmaz Ozdil tarafindan yazilmis olup, Mustafa Kemal Ataturk'un hayatini en detayli anlatan kitaplardin basini
+            cekmektedir. Kitap 2018 yilinda cikmis olup 520 sayfadan olusmaktadir.</answer>
+        </kitapInfo>
+        <kitapInfo name="Suc Cilgin Turkler">
+            <answer>Su Cilgin Turkler kitabi 2005 yilinda Turgut Ozakman tarafindan yazilmsitir. Kitapta 1. Dunya Savası'ndan
+            sonra Osmanlı Devleti'nin cokusunden Cumhuriyet'in ilanina kadar olan olaylar konu alinmistir.</answer>
+        </kitapInfo>
+        <kitapInfo name="Sefiller">
+            <answer>Sefiller kitabi Victor Hugo tarafindan kaleme alinmistir. Kitap 1862 yilinda yayinlanmis olup,
+            toplamda 1981 sayfadir.</answer>
+        </kitapInfo>
+        <kitapInfo name="Yuzuklerin Efendisi">
+            <answer>Yuzuklerin Efendisi kitabindan daha cok filmi ile bilinmketedir. Kitap 1954 Yuzuk Kardesligi kitabi
+            ile piyasaya cikmistir. Kitap serisinin yazari J.R.R. Tolkien'dir. Serinin ilk filmi ise 2001
+            yilinda vizyona girmistir.</answer>
+        </kitapInfo>
+        <kitapInfo name="Dirilis">
+            <answer>Dirilis kitabi Tolstoy tarafindan yazilmistir. Kitap 1899 yilinda cikmis olup, 483 sayfadir.</answer>
+        </kitapInfo>
+        <kitapInfo name="Buyuk Sorulara Kisa Yanitlar">
+            <answer>Buyuk Sorulara Kisa Yanitlar kitabi Stephan Hawking tarafindan yazilmis olup o oldukten sonra,
+            2018 yilinda piyasaya surulmustur. Kitap 199 sayfadir.</answer>
+        </kitapInfo>
+        <kitapInfo name="Insan Neyle Yasar">
+            <answer>Insan Neyle Yasar kitabi Tolstoy'a aittir. Kitap oldukca eski bir kitap olup, 1885 yilinda
+            yazilmistir. Kitap eski olmasina ragmen sadece 95 sayfadir.</answer>
+        </kitapInfo>
+        <kitapInfo name="Silahlara Veda">
+            <answer>Silahlara Veda kitabi Hemingway tarafindan 1929 yilinda yazilmstir. Kitap 296 sayfadir.</answer>
+        </kitapInfo>
+        <kitapInfo name="Leyla ile Mecnun">
+            <answer>Leyla ile Mecnun kitabi 2011-2013 yillari arasinda TRT1' de oynamis olan ayni isimli dizinin senaryosuna
+            cok benzeyen hikayede islenen bir kitaptir. Kitabin yazari, dizinin senaristi Burak Aksak'tir. Kitap 272
+            sayfa olup, 2018 yilinda yazilmistir.</answer>
+        </kitapInfo>
+    </regex>
+
+    <regex>
+        <kitapOneri name="Aksiyon">
+            <answer>Son zamanlarda Aksiyon türünde cikan yeni kitaplar Susuzluk, King of Scars ve Two Can Keep a Secret</answer>
+        </kitapOneri>
+        <kitapOneri name="Komedi">
+            <answer>Turkiye'de en cok okunan komedi turu kitabi Hababam Sinifi serisidir.</answer>
+        </kitapOneri>
+        <kitapOneri name="Mitoloji">
+            <answer>Mitoloji turunde Socrates ve Pluton'un kitaplari oldukca populer.</answer>
+        </kitapOneri>
+        <kitapOneri name="Sol Tarihi">
+            <answer>Sol Tarihi turunde Che Guevera, Karl Marx, Engels ve Turk Sol Tarihi'nde Deniz Gezmis icin
+            yazilan kitaplar daha cok satilmaktadir.</answer>
+        </kitapOneri>
+    </regex>
+
+    <regex>
+        <kitapMostSeller>
+            <answer>Bu gune kadar en cok satan kitap 200 milyon kopya ile İki Sehrin Hikayesi kitabidir.</answer>
+        </kitapMostSeller>
+    </regex>
+
+    <!--<regex>
+        <kitapYil name="2015">
+            <answer>2015 yilinda Turkiye'de en cok satilan kitap Sabahattin Ali'ye ait Kurk Mantolu Madonna kitabidir.</answer>
+        </kitapYil>
+        <kitapYil name="2016">
+            <answer>2016 yilinda Turkiye'de en cok satilan kitap Sapiens'e ait Hayvanlardan Tanrilara kitabidir.</answer>
+        </kitapYil>
+        <kitapYil name="2017">
+            <answer>2017 yilinda Turkiye'de en cok satilan kitap Zulfu Livaneli'ne ait Elia ile Yolculuk kitabidir.</answer>
+        </kitapYil>
+        <kitapYil name="2018">
+            <answer>2018 yilinda Turkiye'de en cok satilan kitap Dan Brown'un Baslangic kitabidir. </answer>
+        </kitapYil>
+    </regex>-->
+
+    <regex term="^[a-zA-Z0-9_.-]*$">
+        <message name="notUnderstand">
+            <notUnderstand>Anlamadim, sorunu daha detayli sorar misin?</notUnderstand>
+        </message>
+    </regex>
+</terms>
